@@ -8,4 +8,5 @@
 8. functions.js sukurti funkcija kuri grazina paduota texta "snake case" forma.
 8.1 atlikti 8 uzduoti su paprastu  for(arba for of) loop
 9. export funkcija ir panaudoti app.js
-10. 
+10. functions.js faile sukurti funkcija kuri grazina paduota teksta 'kebab case' forma
+11. exportuoti ir panaudoti app.js faile

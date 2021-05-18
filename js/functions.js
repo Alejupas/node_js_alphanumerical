@@ -8,3 +8,7 @@ function makeCamel(str) {
   });
 }
 console.log(makeCamel("pasikurti nauja projekta inicializuoti git"));
+
+module.exports = {
+  makeCamel,
+};
