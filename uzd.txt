@@ -1,0 +1,6 @@
+1. pasikurti nauja projekta, inicializuoti gita(git init)
+2. susikurti app.js ir functions.js failus
+3. functions.js faile aprasyti funkcija, kuri gauna texta arba stringa ir pavercia ji camelCase (istrint tarpa ir kita raide in capital letters)
+4. export function ir panaudoti ja app.js faile, paleidus su node.js
+5. prijungti gitHuba prie projekto ir nusiusti visa koda
+6. functions.js faile susikurti funkcija, kuri pavercia gauta texta PascalCase
