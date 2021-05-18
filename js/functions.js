@@ -12,3 +12,5 @@ console.log(makeCamel("pasikurti nauja projekta inicializuoti git"));
 module.exports = {
   makeCamel,
 };
+
+//ls cd..!!!!!
