@@ -4,3 +4,8 @@
 4. export function ir panaudoti ja app.js faile, paleidus su node.js
 5. prijungti gitHuba prie projekto ir nusiusti visa koda
 6. functions.js faile susikurti funkcija, kuri pavercia gauta texta PascalCase
+7. exportuoti funkcija ir panaudoti app.js
+8. functions.js sukurti funkcija kuri grazina paduota texta "snake case" forma.
+8.1 atlikti 8 uzduoti su paprastu  for(arba for of) loop
+9. export funkcija ir panaudoti app.js
+10. 
